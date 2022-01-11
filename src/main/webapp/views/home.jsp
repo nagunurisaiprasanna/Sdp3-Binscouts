@@ -225,8 +225,10 @@ h1{
     </ul>
   </div>
 </nav>
+<br><br><br><br><br><br>
+<center>
 
-
-
+<img src="https://www.aaapolymer.com/wp-content/uploads/2018/10/Closed-Loop-Recycling.jpg" alt="Girl in a jacket" width="500" height="600">
+</center>
 </body>
 
